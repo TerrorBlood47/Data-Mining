@@ -1,0 +1,4 @@
+[(39,), (48,)]
+L : [[(39,), (48,)], [[39, 48]]]
+length of frequent itemsets in APRIORI : 3
+length of frequent itemsets in FP_GROWTH : 3
