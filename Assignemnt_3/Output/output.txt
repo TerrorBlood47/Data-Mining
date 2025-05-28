@@ -1,0 +1,16 @@
+
+===== Min Support: 0.25 =====
+
+length of frequent itemsets in APRIORI : 5545
+length of frequent itemsets in FP_GROWTH : 5545
+
+📋 Comparison Table:
+
+Min_sup         Metric Apriori FP-Growth
+  0.25%    Runtime (s)  102.70     41.78
+           Memory (MB)    0.66      4.24
+        Frequent Items    5545      5545
+
+✅ Clean table saved as: mushroom_clean_table.png
+
+✅ All outputs saved.
