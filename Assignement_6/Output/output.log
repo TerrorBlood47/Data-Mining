@@ -1,0 +1,84 @@
+
+
+=======Processing dataset: BmsWeb1.txt=======
+
+======= min_sup : 50.0% ======= 
+
+PrefixSpan total sequences: 0
+PrefixSpan execution time: 1.269525475 s
+PrefixSpan memory usage: 20.246676445007324 MB
+GSP total sequences: 0
+GSP execution time: 912.454477554 s
+GSP memory usage: 20.38495922088623 MB
+Processing complete for min_sup 50.0% in BmsWeb1.txt
+======= min_sup : 30.0% ======= 
+
+PrefixSpan total sequences: 0
+PrefixSpan execution time: 1.199736445 s
+PrefixSpan memory usage: 20.24701976776123 MB
+GSP total sequences: 0
+GSP execution time: 892.157459284 s
+GSP memory usage: 20.412075996398926 MB
+Processing complete for min_sup 30.0% in BmsWeb1.txt
+======= min_sup : 6.0% ======= 
+
+PrefixSpan total sequences: 3
+PrefixSpan execution time: 1.443438662 s
+PrefixSpan memory usage: 20.386950492858887 MB
+GSP total sequences: 3
+GSP execution time: 895.098910392 s
+GSP memory usage: 20.38260841369629 MB
+Processing complete for min_sup 6.0% in BmsWeb1.txt
+======= min_sup : 5.0% ======= 
+
+PrefixSpan total sequences: 4
+PrefixSpan execution time: 1.581528138 s
+PrefixSpan memory usage: 20.50917339324951 MB
+GSP total sequences: 4
+GSP execution time: 906.551651513 s
+GSP memory usage: 20.38213539123535 MB
+Processing complete for min_sup 5.0% in BmsWeb1.txt
+======= min_sup : 4.0% ======= 
+
+PrefixSpan total sequences: 5
+PrefixSpan execution time: 1.741753885 s
+PrefixSpan memory usage: 20.50935649871826 MB
+GSP total sequences: 5
+GSP execution time: 928.875473026 s
+GSP memory usage: 20.381436347961426 MB
+Processing complete for min_sup 4.0% in BmsWeb1.txt
+======= min_sup : 3.0% ======= 
+
+PrefixSpan total sequences: 11
+PrefixSpan execution time: 2.521397948 s
+PrefixSpan memory usage: 20.51101589202881 MB
+GSP total sequences: 11
+GSP execution time: 1195.132373984 s
+GSP memory usage: 20.39346981048584 MB
+Processing complete for min_sup 3.0% in BmsWeb1.txt
+
+📋 Comparison Table:
+
+Min_sup         Metric     GSP PrefixSpan
+   0.5%    Runtime (s)  912.45       1.27
+           Memory (MB)   20.38      20.25
+        Frequent Items       0          0
+   0.3%    Runtime (s)  892.16       1.20
+           Memory (MB)   20.41      20.25
+        Frequent Items       0          0
+  0.06%    Runtime (s)  895.10       1.44
+           Memory (MB)   20.38      20.39
+        Frequent Items       3          3
+  0.05%    Runtime (s)  906.55       1.58
+           Memory (MB)   20.38      20.51
+        Frequent Items       4          4
+  0.04%    Runtime (s)  928.88       1.74
+           Memory (MB)   20.38      20.51
+        Frequent Items       5          5
+  0.03%    Runtime (s) 1195.13       2.52
+           Memory (MB)   20.39      20.51
+        Frequent Items      11         11
+
+✅ Clean table saved as: BmsWeb1.txt_clean_table.png
+Processing complete for BmsWeb1.txt
+All datasets processed successfully! Check the Output folder for results.
