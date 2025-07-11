@@ -1,0 +1,46 @@
+credit             k_means            1769101660.0331         0.3947       13
+credit             db_scan            357414362.8335        0.8947              819.42           16
+credit             k_means            1769101660.0331         0.3947       13
+credit             db_scan            357414362.8335        0.8947              819.42           16
+kidney             k_means            199769415.5741         0.5196       10
+kidney             db_scan            1089885905.8328        0.6899              744.91           25
+energy             k_means            232766.7081         0.5360       13
+energy             db_scan            2818.6125        0.9357              1.59           9
+abalone             k_means            48.4768         0.3568       32
+abalone             db_scan            656.2409        0.3362              0.09           9
+statlog             k_means            99437710.7836         0.5404       15
+statlog             db_scan            1226209830.9436        0.5551              263.00           21
+student             k_means            11170.5606         0.0774       12
+student             db_scan            24329.1721        0.6562              7.90           31
+wine             k_means            647326.0020         0.5656       6
+wine             db_scan            8013468.1399        0.5042              79.71           14
+iris             k_means            39.2779         0.3664       6
+iris             db_scan            115.0458        0.5379              0.61           5
+breast_cancer             k_means            9984020.0576         0.4233       11
+breast_cancer             db_scan            116738843.0422        0.6607              189.57           31
+solar_flare             k_means            1718.0926         0.2813       18
+solar_flare             db_scan            0.0000        0.1231              0.98           11
+heart_disease             k_means            253894.9209         0.2352       8
+heart_disease             db_scan            858505.5090        0.5773              41.86           14
+credit             k_means            1769101660.0331         0.3947       13
+credit             db_scan            357414362.8335        0.8947              819.42           16
+kidney             k_means            199769415.5741         0.5196       10
+kidney             db_scan            1089885905.8328        0.6899              744.91           25
+energy             k_means            232766.7081         0.5360       13
+energy             db_scan            2818.6125        0.9357              1.59           9
+abalone             k_means            48.4768         0.3568       32
+abalone             db_scan            656.2409        0.3362              0.09           9
+statlog             k_means            99437710.7836         0.5404       15
+statlog             db_scan            1226209830.9436        0.5551              263.00           21
+student             k_means            11170.5606         0.0774       12
+student             db_scan            24329.1721        0.6562              7.90           31
+wine             k_means            647326.0020         0.5656       6
+wine             db_scan            8013468.1399        0.5042              79.71           14
+iris             k_means            39.2779         0.3664       6
+iris             db_scan            115.0458        0.5379              0.61           5
+breast_cancer             k_means            9984020.0576         0.4233       11
+breast_cancer             db_scan            116738843.0422        0.6607              189.57           31
+solar_flare             k_means            1718.0926         0.2813       18
+solar_flare             db_scan            0.0000        0.1231              0.98           11
+heart_disease             k_means            253894.9209         0.2352       8
+heart_disease             db_scan            858505.5090        0.5773              41.86           14
